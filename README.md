@@ -8,7 +8,6 @@
 Web Designer & Web Developer located in Indonesia
 
 - 🔭 I’m currently studying **Software Engineering** at SMKN 1 Ciamis
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
 <!--
 **hariiskndrmd/hariiskndrmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
