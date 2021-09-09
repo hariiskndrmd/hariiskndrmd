@@ -1,7 +1,7 @@
 ### Hello, I'm Hari Iskandar 👋
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![TypeScript](https://img.shields.io/badge/PHP-Intermediate-lightblue)
 
