@@ -7,7 +7,7 @@
 
 Web Developer located in Indonesia
 
-- 🔭 I’m currently studying **Software Engineering** at SMKN 1 Ciamis
+
 <!--
 **hariiskndrmd/hariiskndrmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
